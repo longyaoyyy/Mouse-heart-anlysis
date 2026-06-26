@@ -1,14 +1,4 @@
 #!/bin/bash
-###
- # @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- # @Date: 2024-09-30 18:42:55
- # @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- # @LastEditTime: 2024-12-09 22:01:33
- # @FilePath: /root/code/upper/cuttag2.sh
- # @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
-### 
-
-# 设置线程数
 cores=16
 # 初始化项目路径变量
 projPath="/mnt/g/cuttag_3"
